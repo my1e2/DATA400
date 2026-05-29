@@ -43,6 +43,8 @@ repo/
 
 * Counting principles
 * Conditional probability
+* Bayes Theorem
+* Law of Total Probability
 * Independence
 * Random variables
 * Expectation
